@@ -23,17 +23,17 @@
             "require": "./dist/index.cjs"
         }
     },
-    "homepage": "null",
-    "description": "null",
+    "homepage": "https://github.com/environment-safe/server",
+    "description": "ESM Server Abstraction",
     "keywords": [],
-    "author": "null <null>()",
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "null"
+        "url": "git@github.com:environment-safe/server.git"
     },
     "bugs": {
-        "url": "null"
+        "url": "https://github.com/environment-safe/server/issues"
     },
     "moka": {
         "firefox": {
